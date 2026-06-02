@@ -48,19 +48,12 @@ Soy un desarrollador Full Stack apasionado por crear soluciones eficientes utili
 
 ## 🚀 Proyectos y Experiencia Destacada
 
-### 🏢 CODELAND MX
-- Participación en proyectos como **CRASH** y **NIUX**.
-
-### ☁️ Migración Cloud
-- Migración de soluciones basadas en AWS Lambda hacia Azure utilizando C#.
-
-### 🏆 Rally Latinoamericano de Innovación 2024
-- Integrante del equipo ganador.
+### 🏢 GP Soluciones (ATT)
+- Participación en proyectos como **Dashboard** y **ApisRestFull** .
 
 ### 🌐 Plataforma Web Institucional 2023
 - Desarrollo de solución web personalizada.
 
----
 
 ## 🌱 Actualmente Aprendiendo
 
