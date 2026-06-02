@@ -1,6 +1,6 @@
-# Hola, soy Moisés David Ramón Esteban
+# Hola, soy David Quintero
 
-### Middle Software Developer en CODELAND MX
+### Jr Software Developer 
 
 Soy un desarrollador de software enfocado en el Back-End y la ingeniería de software. Me apasiona crear soluciones eficientes utilizando buenas prácticas de arquitectura y diseño.
 
@@ -16,8 +16,8 @@ Soy un desarrollador de software enfocado en el Back-End y la ingeniería de sof
 ### Frameworks, Librerías y Conceptos
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-* **Stack principal:** .NET 8/9/10, ASP.NET Core, MAUI, Entity Framework Core.
-* **Diseño:** REST APIs, Clean Architecture, Vertical Slice, SOLID.
+* **Stack principal:** .NET 8/9/10, ASP.NET Core,Entity Framework Core.
+* **Diseño:** REST APIs.
 
 ### Infraestructura, Herramientas y Bases de Datos
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
